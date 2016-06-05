@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/future_net.cpp
+route.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/route.h
+lib_io.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib_io.h
+lib_time.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib_time.h
+stdio.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/stdio.h
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/io.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+sys/timeb.h
+-
+errno.h
+-
+unistd.h
+-
+signal.h
+-
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib/lib_io.h
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib/lib_record.h
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib/lib_time.h
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/route.cpp
+route.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/route.h
+lib_record.h
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/lib_record.h
+stdio.h
+-
+
+/home/wfp/Desktop/HUAWEI Code Craft 2016 初赛赛题包/SDK-gcc/future_net/route.h
+
