@@ -1,0 +1,295 @@
+Begin date/time is: Sun May  8 19:35:32 2016
+ 	used time is 0 s 0 ms.
+Open file ../case4/topon.csv OK.
+There are 34 lines in file ../case4/topon.csv.
+Open file ../case4/demand.csv OK.
+There are 2 lines in file ../case4/demand.csv.
+begin w or b
+Path:1->4cost:8
+spNum:2
+Nodes:1->4
+cant table:1 4 
+pre: -1 0 0
+
+Path:1->5cost:12
+spNum:3
+Nodes:1->4->9->5
+cant table:1 4 5 9 
+pre: -1 0 0
+
+Path:1->8cost:24
+spNum:4
+Nodes:1->4->11->13->12->8
+cant table:1 4 8 11 12 13 
+pre: -1 0 0
+
+Path:1->10cost:19
+spNum:3
+Nodes:1->4->9->10
+cant table:1 4 9 10 
+pre: -1 0 0
+
+Path:1->13cost:19
+spNum:3
+Nodes:1->4->11->13
+cant table:1 4 11 13 
+pre: -1 0 0
+
+Path:1->3cost:8
+spNum:1
+Nodes:1->3
+cant table:1 3 
+pre: -1 0 0
+
+Path:4->1cost:15
+spNum:3
+Nodes:4->9->5->14->1
+cant table:1 4 5 9 14 
+pre: -1 0 0
+
+Path:4->5cost:4
+spNum:2
+Nodes:4->9->5
+cant table:4 5 9 
+pre: -1 0 0
+
+Path:4->8cost:16
+spNum:3
+Nodes:4->11->13->12->8
+cant table:4 8 11 12 13 
+pre: -1 0 0
+
+Path:4->10cost:11
+spNum:2
+Nodes:4->9->10
+cant table:4 9 10 
+pre: -1 0 0
+
+Path:4->13cost:11
+spNum:2
+Nodes:4->11->13
+cant table:4 11 13 
+pre: -1 0 0
+
+Path:4->3cost:7
+spNum:1
+Nodes:4->11->3
+cant table:3 4 11 
+pre: -1 0 0
+
+Path:5->1cost:11
+spNum:2
+Nodes:5->14->1
+cant table:1 5 14 
+pre: -1 0 0
+
+Path:5->4cost:9
+spNum:2
+Nodes:5->4
+cant table:4 5 
+pre: -1 0 0
+
+Path:5->8cost:14
+spNum:2
+Nodes:5->14->2->12->8
+cant table:2 5 8 12 14 
+pre: -1 0 0
+
+Path:5->10cost:8
+spNum:2
+Nodes:5->10
+cant table:5 10 
+pre: -1 0 0
+
+Path:5->13cost:20
+spNum:3
+Nodes:5->4->11->13
+cant table:4 5 11 13 
+pre: -1 0 0
+
+Path:5->3cost:12
+spNum:2
+Nodes:5->10->3
+cant table:3 5 10 
+pre: -1 0 0
+
+Path:8->1cost:22
+spNum:4
+Nodes:8->4->9->5->14->1
+cant table:1 4 5 8 9 14 
+pre: -1 0 0
+
+Path:8->4cost:7
+spNum:2
+Nodes:8->4
+cant table:4 8 
+pre: -1 0 0
+
+Path:8->5cost:11
+spNum:3
+Nodes:8->4->9->5
+cant table:4 5 8 9 
+pre: -1 0 0
+
+Path:8->10cost:18
+spNum:3
+Nodes:8->4->9->10
+cant table:4 8 9 10 
+pre: -1 0 0
+
+Path:8->13cost:18
+spNum:3
+Nodes:8->4->11->13
+cant table:4 8 11 13 
+pre: -1 0 0
+
+Path:8->3cost:9
+spNum:1
+Nodes:8->3
+cant table:3 8 
+pre: -1 0 0
+
+Path:10->1cost:24
+spNum:3
+Nodes:10->11->13->2->1
+cant table:1 2 10 11 13 
+pre: -1 0 0
+
+Path:10->4cost:18
+spNum:3
+Nodes:10->12->8->4
+cant table:4 8 10 12 
+pre: -1 0 0
+
+Path:10->5cost:22
+spNum:4
+Nodes:10->12->8->4->9->5
+cant table:4 5 8 9 10 12 
+pre: -1 0 0
+
+Path:10->8cost:11
+spNum:2
+Nodes:10->12->8
+cant table:8 10 12 
+pre: -1 0 0
+
+Path:10->13cost:13
+spNum:2
+Nodes:10->11->13
+cant table:10 11 13 
+pre: -1 0 0
+
+Path:10->3cost:4
+spNum:1
+Nodes:10->3
+cant table:3 10 
+pre: -1 0 0
+
+Path:13->1cost:11
+spNum:2
+Nodes:13->2->1
+cant table:1 2 13 
+pre: -1 0 0
+
+Path:13->4cost:5
+spNum:2
+Nodes:13->2->4
+cant table:2 4 13 
+pre: -1 0 0
+
+Path:13->5cost:9
+spNum:3
+Nodes:13->2->4->9->5
+cant table:2 4 5 9 13 
+pre: -1 0 0
+
+Path:13->8cost:5
+spNum:2
+Nodes:13->12->8
+cant table:8 12 13 
+pre: -1 0 0
+
+Path:13->10cost:16
+spNum:3
+Nodes:13->2->4->9->10
+cant table:2 4 9 10 13 
+pre: -1 0 0
+
+Path:13->3cost:6
+spNum:1
+Nodes:13->3
+cant table:3 13 
+pre: -1 0 0
+
+Path:0->1cost:17
+spNum:2
+Nodes:0->5->14->1
+cant table:0 1 5 14 
+pre: -1 0 0
+
+Path:0->4cost:7
+spNum:1
+Nodes:0->4
+cant table:0 4 
+pre: -1 0 0
+
+Path:0->5cost:6
+spNum:1
+Nodes:0->5
+cant table:0 5 
+pre: -1 0 0
+
+Path:0->8cost:20
+spNum:2
+Nodes:0->5->14->2->12->8
+cant table:0 2 5 8 12 14 
+pre: -1 0 0
+
+Path:0->10cost:14
+spNum:2
+Nodes:0->5->10
+cant table:0 5 10 
+pre: -1 0 0
+
+Path:0->13cost:18
+spNum:2
+Nodes:0->4->11->13
+cant table:0 4 11 13 
+pre: -1 0 0
+
+begin sk
+begin sk
+begin sk
+change workpath cost
+begin w or b
+begin sk
+
+work path----------------------------------------
+point:0->5->10->12->8->4->11->13->2->1->3
+path is correct
+cost:62
+edges:1|15|31|39|25|13|34|43|6|4
+
+back path----------------------------------------
+point:0->9->10->3
+path is correct
+cost:20
+edges:0|29|32
+
+cost1:62
+cost2:20
+cost:82
+repeatNum:0
+= 392 0.163333
++ 182 0.0758333
+handleCycle 1330 0.554167
+dij init 198 0.0825
+add edges 29 0.0120833
+dij 58 0.0241667
+dij2 541 0.225417
+buildpath 211 0.0879167
+sum 2400
+Open file ./debug OK.
+Open file ./debug OK.
+End date/time is: Sun May  8 19:35:33 2016
+ 	used time is 0 s 16 ms.
